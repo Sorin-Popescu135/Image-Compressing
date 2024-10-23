@@ -29,6 +29,3 @@ This project implements a **quadtree** structure in C to compress and partition 
 - **breaking**: Recursively subdivides blocks based on color variation and constructs the quadtree.
 - **Get_Level_Nodes**: Extracts nodes at a specific level of the quadtree for output.
 - **FreeArbor**: Frees memory allocated for the entire quadtree structure.
-
-## License
-This project is open-source and available for modification and distribution.
